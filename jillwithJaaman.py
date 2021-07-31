@@ -4,13 +4,13 @@ import random
 pygame.init()
 
 #images
-RUNNING = [pygame.image.load(os.path.join("images/gp", "RUN.PNG")),
+RUNNING = [pygame.image.load(os.path.join("images/gp", "RUN.png")),
            pygame.image.load(os.path.join("images/gp", "RUN.png"))]
 
 JUMPING = pygame.image.load(os.path.join("images/gp", "jump.png"))
 
-DUCKING = [pygame.image.load(os.path.join("images/gp", "duck.png")),
-           pygame.image.load(os.path.join("images/gp", "duck.png"))]
+DUCKING = [pygame.image.load(os.path.join("images/gp", "DUCK.png")),
+           pygame.image.load(os.path.join("images/gp", "DUCK.png"))]
 
 SMALL_CACTUS = [pygame.image.load(os.path.join("images/cactus", "SmallCactus1.png")),
                 pygame.image.load(os.path.join("images/cactus", "SmallCactus2.png")),
