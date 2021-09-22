@@ -4,4 +4,12 @@
   After clone : 
  ```pip install requirements.txt```
  
+ To play Dinosuar game :
+ 
+ ```python Dino.py ```
+ 
+
+ 
+ 
+ 
  
