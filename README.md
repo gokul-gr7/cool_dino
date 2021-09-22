@@ -10,7 +10,7 @@
  
 ### To play  GP Muthu's Version 
 
-```python GP.py ``
+```python GP.py ```
  
 
  
